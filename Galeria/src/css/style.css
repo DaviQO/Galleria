@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.titulo {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 3%;
+}
+
+.navbar-brand {
+    margin-left: 16.5%;
+    font-weight: 900;
+    padding: 20px;
+}
+
+.cards-principal {
+    margin-top: 200px;
+    margin: 0 18%;
+    border: none;
+}
+
+
+.cards-foto img{
+    width: 64%;
+    height: 230px;
+    margin: 0 18%;
+    border-radius: 5px;
+}
+
+.rodape {
+    text-align: center;
+}
+
+.rodape h3 {
+    font-size: 10px;
+}
